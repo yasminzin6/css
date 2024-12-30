@@ -1,6 +1,6 @@
 # CSS Task
 
-\*\* CSS Task
+**CSS Task**
 
 > CSS Task
 
